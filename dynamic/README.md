@@ -7,7 +7,7 @@ Este trabalho foi desenvolvido para o projeto **Global Solution - Energia para u
 
 Autores:  
 - Adriano Lopes Sampaio Santana (RM: 98574)  
-- João Antônio Rihan (RM: 99656)  
+- João Antonio Rihan (RM: 99656)  
 - Rodrigo Fernandes Serafim (RM: 550816)
 
 ---
@@ -73,5 +73,3 @@ Autores:
 
 ### **Conclusão**
 O projeto destaca a importância de políticas de manutenção preventiva e estratégias tarifárias para viabilizar a operação sustentável de fontes de energia. A análise detalhada fornece uma base sólida para decisões informadas, promovendo um futuro energético mais sustentável e econômico.
-
-Caso precise de mais informações ou melhorias, sinta-se à vontade para entrar em contato.
