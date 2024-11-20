@@ -68,7 +68,7 @@ Autores:
 
 Exemplo de um dos gráficos presentes no notebook.
 
-![Imagem 1](img/1.jpg)
+![Imagem 1](img/1.png)
 
 ---
 
