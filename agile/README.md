@@ -7,7 +7,7 @@
 
 Autores:  
 - Adriano Lopes Sampaio Santana (RM: 98574)  
-- João Antônio Rihan (RM: 99656)  
+- João Antonio Rihan (RM: 99656)  
 - Rodrigo Fernandes Serafim (RM: 550816)
 
 ---
@@ -73,6 +73,3 @@ O EcoStep representa uma inovação no campo da sustentabilidade e das cidades i
 Contribuições são bem-vindas! Se você tem ideias para melhorar o EcoStep ou deseja se envolver com o projeto, entre em contato conosco. Vamos juntos construir um futuro mais sustentável!
 
 --- 
-
-**Grupo EcoStep**  
-João Antônio Rihan, Adriano Lopes Sampaio Santana, Rodrigo Fernandes Serafim
