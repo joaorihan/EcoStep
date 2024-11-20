@@ -28,8 +28,12 @@ Esses locais foram escolhidos devido ao intenso tráfego diário de passageiros,
 
 ![Imagem 2](img/2.jpg)
 
+![Imagem 3](img/3.jpg)
+
+![Imagem 4](img/4.jpg)
+
 ---
 
 ### Observação
 
-As capturas de tela podem apresentar alta granularidade devido às limitações do hardware utilizado durante o desenvolvimento. Um vídeo com maior detalhamento do projeto está incluído nos anexos, porém apresenta baixa taxa de quadros (fps) pelos mesmos motivos.
+As capturas de tela podem apresentar alta granularidade devido às limitações do hardware utilizado durante o desenvolvimento.
