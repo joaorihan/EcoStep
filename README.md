@@ -1,6 +1,6 @@
 ### README - Projeto EcoStep
 
-# EcoStep
+# EcoStep 🌿
 
 **Faculdade de Informática e Administração Paulista - Global Solution FIAP 2024**  
 **Tema:** Energia para um Futuro Sustentável  
