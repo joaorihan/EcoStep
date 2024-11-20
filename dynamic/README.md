@@ -64,6 +64,14 @@ Autores:
 
 ---
 
+### **Captura de Tela**
+
+Exemplo de um dos gráficos presentes no notebook.
+
+![Imagem 1](img/1.jpg)
+
+---
+
 ### **Como Executar**
 1. Certifique-se de ter as bibliotecas necessárias: `numpy`, `matplotlib`, `pandas`.
 2. Configure os parâmetros globais no início do código para ajustar cenários de análise.

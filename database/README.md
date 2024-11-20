@@ -68,11 +68,9 @@ O projeto será implementado nas estações mais movimentadas de São Paulo, com
 ## 📊 Modelos Relacionais e Diagramas  
 Aqui está um exemplo de como os modelos relacionais e diagramas foram estruturados:  
 
-![Diagrama Conceitual Placeholder](https://via.placeholder.com/800x400?text=Diagrama+Conceitual+EcoStep)  
+![Imagem 1](img/1.png)
 
-Adicione seus diagramas reais aqui. Certifique-se de incluir os detalhes importantes para ilustrar os relacionamentos entre as entidades.  
+![Imagem 2](img/2.png)
 
 ---
 
-## 📚 Dicionário de Dados  
-O projeto contém uma descrição detalhada dos campos, tipos de dados e chaves para cada entidade.
