@@ -2,6 +2,16 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/view/Splash_GUI.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/view/CriarConta_GUI.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/view/Login_GUI.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/model/Funcionalidades_DAO.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/model/Login_DAO.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/view/MenuPrincipal_GUI.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/view/Estacao_GUI.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/main/Main.java</file>
+            <file>file:/C:/Users/João/Desktop/Global-JAVA/Global/src/model/Usuario_DAO.java</file>
+        </group>
     </open-files>
 </project-private>
